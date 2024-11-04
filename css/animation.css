@@ -1,0 +1,107 @@
+@keyframes typed {
+    0%{
+        content: "|";
+    }
+    3%{
+        content: "D|";
+    }
+    6%{
+        content: "De|";
+    }
+    9%{
+        content: "Des|";
+    }
+    12%{
+        content: "Desi|";
+    }
+    15%{
+        content: "Desig|";
+    }
+    18%{
+        content: "Design|";
+    }
+    21%{
+        content: "Designe|";
+    }
+    
+    24%{
+        content: "Designer|";
+    }
+    30%{
+        content: "|";
+    }
+    33%{
+        content: "L|";
+    }
+    36%{
+        content: "La|";
+    }
+    39%{
+        content: "Lar|";
+    }
+    41%{
+        content: "Larr|";
+    }
+    44%{
+        content: "Larry|";
+    }
+    47%{
+        content: "Larry D|";
+    }
+    50%{
+        content: "Larry Da|";
+    }
+    53%{
+        content: "Larry Dani|";
+    }
+    56%{
+        content: "Larry Danie|";
+    }
+    59%{
+        content: "Larry Daniel|";
+    }
+    
+    62%{
+        content: "Larry Daniels|";
+    }
+    68%{
+        content: "|";
+    }
+    71%{
+        content: "D|";
+    }
+    74%{
+        content: "De|";
+    }
+    77%{
+        content: "Dev|";
+    }
+    80%{
+        content: "Deve|";
+    }
+    83%{
+        content: "Devel|";
+    }
+    86%{
+        content: "Develo|";
+    }
+    89%{
+        content: "Develop|";
+    }
+    92%{
+        content: "Develope|";
+    }
+    95%{
+        content: "Developer|";
+    }
+    
+}
+
+@keyframes border-tap {
+    0%{
+        width: 30%;
+    }
+    100%{
+        width: 100%;
+    }
+}
